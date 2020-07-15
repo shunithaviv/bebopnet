@@ -1,0 +1,8 @@
+theme: jekyll-theme-cayman
+
+title: "BebopNet: Deep Neural Models for Personalized Jazz Improvisations"
+description: Supplementary material 
+show_downloads: false
+
+github:
+  is_project_page: false
