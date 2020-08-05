@@ -1,14 +1,5 @@
-<!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-145826797-1"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
 
-  gtag('config', 'UA-145826797-1');
-</script>
-
-<a href="https://shunithaviv.github.io/bebopnet/BebopNet_SupplementaryMaterial.pdf" target="_blank">Supplemetary Material PDF.</a>
+[Supplemetary Material PDF](https://shunithaviv.github.io/bebopnet/BebopNet_SupplementaryMaterial.pdf)
 
 # Audio Samples
 
@@ -180,4 +171,13 @@ Different improvisations for Recorda Me, generated for user 4
 | There Will Never Be Another You | <audio src="supplementary_material/harmony/There_Will_Never_Be_Another_You_0.mp3" controls></audio> 
 | Well You Needn't | <audio src="supplementary_material/harmony/Well_you_neednt_0.mp3" controls></audio>
 
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-145826797-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-145826797-1');
+</script>
 
