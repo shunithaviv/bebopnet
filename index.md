@@ -1,3 +1,13 @@
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-145826797-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-145826797-1');
+</script>
+
 <a href="https://shunithaviv.github.io/bebopnet/BebopNet_SupplementaryMaterial.pdf" target="_blank">PDF.</a>
 
 # Audio Samples
