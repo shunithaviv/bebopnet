@@ -8,7 +8,7 @@
   gtag('config', 'UA-145826797-1');
 </script>
 
-<a href="https://shunithaviv.github.io/bebopnet/BebopNet_SupplementaryMaterial.pdf" target="_blank">PDF.</a>
+<a href="https://shunithaviv.github.io/bebopnet/BebopNet_SupplementaryMaterial.pdf" target="_blank">Supplemetary Material PDF.</a>
 
 # Audio Samples
 
