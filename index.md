@@ -1,5 +1,7 @@
+[Towards Data Science Blog](https://towardsdatascience.com/bebopnet-neural-models-for-jazz-improvisations-4a4d723d0b60?source=email-f97f0154c281-1588195144277-layerCake.autoLayerCakeWriterNotification-------------------------cf90570e_80d2_48af_8be8_fbfcbe70c338&sk=598eb0bf55b00ff575219fe4431c1e73)
 
 [Supplemetary Material PDF](https://shunithaviv.github.io/bebopnet/BebopNet_SupplementaryMaterial.pdf)
+[![Supplemetary Material PDF](https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/PDF_file_icon.svg/267px-PDF_file_icon.svg.png)](https://shunithaviv.github.io/bebopnet/BebopNet_SupplementaryMaterial.pdf)
 
 # Audio Samples
 
