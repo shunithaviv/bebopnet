@@ -2,6 +2,10 @@
 
 | [![Supplemetary Material](https://upload.wikimedia.org/wikipedia/commons/8/87/PDF_file_icon.svg =80x)](https://shunithaviv.github.io/bebopnet/BebopNet_SupplementaryMaterial.pdf) Supplementary Matrial | [![Towards Data Science Blog](https://cdn-images-1.medium.com/max/1200/1*hVxgUA6kP-PgL5TJjuyePg.png =80x)](https://towardsdatascience.com/bebopnet-neural-models-for-jazz-improvisations-4a4d723d0b60?source=email-f97f0154c281-1588195144277-layerCake.autoLayerCakeWriterNotification-------------------------cf90570e_80d2_48af_8be8_fbfcbe70c338&sk=598eb0bf55b00ff575219fe4431c1e73) Bebopnet Blog on TDS
 
+| [<img src="https://upload.wikimedia.org/wikipedia/commons/8/87/PDF_file_icon.svg" alt="Supplemetary Material" width="80"/>](https://shunithaviv.github.io/bebopnet/BebopNet_SupplementaryMaterial.pdf) Supplementary Matrial | [![Towards Data Science Blog](https://cdn-images-1.medium.com/max/1200/1*hVxgUA6kP-PgL5TJjuyePg.png =80x)](https://towardsdatascience.com/bebopnet-neural-models-for-jazz-improvisations-4a4d723d0b60?source=email-f97f0154c281-1588195144277-layerCake.autoLayerCakeWriterNotification-------------------------cf90570e_80d2_48af_8be8_fbfcbe70c338&sk=598eb0bf55b00ff575219fe4431c1e73) Bebopnet Blog on TDS
+
+
+
 # Audio Samples
 
 [BebopNet in sample](#bebopnet-in-sample) and [BebopNet out of sample](#bebopnet-out-of-sample) contain solos of BebopNet without beam search over chord progressions in and out of the imitation training set, respectively.
