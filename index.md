@@ -1,5 +1,7 @@
 Published in Proceedings of 21st International Society of Music Information Retrieval Conference, ISMIR 2020
 
+[Citation](#citation)
+
 |[<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub Repository" width="20"/> GitHub Repository](https://github.com/shunithaviv/bebopnet-code) | [<img src="https://upload.wikimedia.org/wikipedia/commons/8/87/PDF_file_icon.svg" alt="Supplemetary Material" width="20"/> Supplementary Matrial](https://shunithaviv.github.io/bebopnet/BebopNet_SupplementaryMaterial.pdf) | [<img src="https://cdn-images-1.medium.com/max/1200/1*hVxgUA6kP-PgL5TJjuyePg.png" alt="Towards Data Science BebopNet Blog" width="20"/> BebopNet on TDS](https://towardsdatascience.com/bebopnet-neural-models-for-jazz-improvisations-4a4d723d0b60?source=email-f97f0154c281-1588195144277-layerCake.autoLayerCakeWriterNotification-------------------------cf90570e_80d2_48af_8be8_fbfcbe70c338&sk=598eb0bf55b00ff575219fe4431c1e73) 
 
 
@@ -184,3 +186,17 @@ Different improvisations for Recorda Me, generated for user 4
   gtag('config', 'UA-145826797-1');
 </script>
 
+----------------------
+
+# Citation
+
+If you found our work helpful, please consider citing us:
+
+```
+@inproceedings{haviv2020bebopnet,
+title={BebopNet: Deep Neural Models for Personalized Jazz Improvisations},
+author={Shunit Haviv Hakimi and Nadav Bhonker and Ran El-Yaniv},
+year={2020},
+booktitle={Proceedings of the 21st International Society for Music Information Retrieval Conference (ISMIR)}
+}
+```
