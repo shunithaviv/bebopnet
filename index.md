@@ -1,4 +1,4 @@
-Published in Proceedings of 21st International Society of Music Information Retrieval Conference, ISMIR 2020
+Published in Proceedings of 21st International Society of Music Information Retrieval Conference, ISMIR 2020, Best Research Award
 
 [Citation](#citation)
 
